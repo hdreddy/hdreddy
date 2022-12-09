@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hdreddy
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently working as Network Administrator
-- 💞️ I’m looking to collaborate on web designing
-- 📫 How to reach me: hdpr777@gmail.com
+- 💞️ I love working on web designing
+- 📫 visit my personal site https://hdreddy.github.io/hdreddy/
 
 <!---
 hdreddy/hdreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
