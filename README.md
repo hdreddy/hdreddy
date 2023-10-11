@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hdreddy
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently working as Network Administrator
-- 💞️ I love working on web designing
+- 💞️ I love working on web designing and graphic designing too
 - 📫 visit my personal site https://hdreddy.github.io/hdreddy/
 
 <!---
