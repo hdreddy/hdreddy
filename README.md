@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hdreddy
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently working as Network Administrator
+- 🌱 I’m currently working as Service Now Developer
 - 💞️ I love working on web designing and graphic designing too
 - 📫 visit my personal site https://hdreddy.github.io/hdreddy/
 
